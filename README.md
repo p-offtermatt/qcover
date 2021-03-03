@@ -39,9 +39,9 @@ For any question concerning QCover, contact [Michael Blondin](https://www7.in.tu
 
 ## References
 
-**[BFHH16]** [Michael Blondin, Alain Finkel, Christoph Haase and Serge Haddad. *Approaching the Coverability Problem Continuously*. Proc. 22<sup>nd</sup> International Conference Tools and Algorithms for the Construction and Analysis of Systems (TACAS), Springer, 2016](http://dx.doi.org/10.1007/978-3-662-49674-9_28). Available online [here](https://www7.in.tum.de/~blondin/papers/BFHH16.pdf).
+**[BFHH16]** [Michael Blondin, Alain Finkel, Christoph Haase and Serge Haddad. *Approaching the Coverability Problem Continuously*. Proc. 22<sup>nd</sup> International Conference Tools and Algorithms for the Construction and Analysis of Systems (TACAS), Springer, 2016](http://dx.doi.org/10.1007/978-3-662-49674-9_28). Available online [here](http://info.usherbrooke.ca/mblondin/papers/BFHH16.pdf).
 
-**[BFHH17]** Michael Blondin, Alain Finkel, Christoph Haase and Serge Haddad. *The Logical View on Continuous Petri Nets*. Invited submission to the special issue of selected TACAS'16 papers, ACM Transactions on Computational Logic (TOCL), 2017. Available online [here](https://www7.in.tum.de/~blondin/papers/BFHH17.pdf).
+**[BFHH17]** Michael Blondin, Alain Finkel, Christoph Haase and Serge Haddad. *The Logical View on Continuous Petri Nets*. Invited submission to the special issue of selected TACAS'16 papers, ACM Transactions on Computational Logic (TOCL), 2017. Available online [here](http://info.usherbrooke.ca/mblondin/papers/BFHH17.pdf).
 
-**[Blo16]** [Michael Blondin. *Algorithmique et complexité des systèmes à compteurs*. Ph.D. thesis, Université de Montréal & ENS Cachan – Université Paris-Saclay, 2016](https://tel.archives-ouvertes.fr/tel-01359000?lang=en). Available online [here](https://www7.in.tum.de/~blondin/papers/phd.pdf).
+**[Blo16]** [Michael Blondin. *Algorithmique et complexité des systèmes à compteurs*. Ph.D. thesis, Université de Montréal & ENS Cachan – Université Paris-Saclay, 2016](https://tel.archives-ouvertes.fr/tel-01359000?lang=en). Available online [here](http://info.usherbrooke.ca/mblondin/papers/phd.pdf).
 
